@@ -36,3 +36,5 @@ A template for repeated creation of the same stack or to be used as a foundation
                - and other options that may be needed in an actual production environment.
 
 # Network Diagram
+
+https://github.com/vtester816/VPC-Design-Test/blob/main/AWS-VPC-NW%20Diagram.jpg
